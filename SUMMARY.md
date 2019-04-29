@@ -5,5 +5,6 @@
   * 333
 * [全局方法](globalFunc.md)
   * [$.dxColumn](globalFunc/dxcolumn.md)
-  * [$.currencyFormat](globalFunc/currencyformat.md)
+  * [$.currencyFormatter](globalFunc/currencyformat.md)
+  * [$.numberFormatter](globalFunc/numberformatter.md)
 
